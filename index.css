@@ -3,12 +3,21 @@
 }
 
 .btn-lol {
-  background-color: rgb(52, 142, 226);
+  background-color: #0D1720;
   color: white;
 }
 
 .btn-lol:hover {
-  background-color: rgb(33, 112, 208);
+  background-color: black;
+}
+
+.btn-regiones {
+  background-color: #23252B;
+  color: white;
+}
+
+.btn-regiones:hover {
+  background-color: gray;
 }
 
 #header img {
@@ -40,8 +49,9 @@
   height: 100%;
 }
 
-#place-time {
-  background-color: #343a40;
+#regiones {
+  text-align: center;
+  background-color: #0D1720;
   color: white;
 }
 
@@ -50,7 +60,7 @@
 }
 
 #footer {
-  background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5372);
+  background: #111111;
 }
 
 #footer a {
@@ -61,5 +71,7 @@ div.container {
   text-align: center;
   align-items: center;
 }
+
+
 
 
